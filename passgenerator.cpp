@@ -55,7 +55,7 @@ int main() {
         cout << "2. Save Password\n";
         cout << "3. View Saved Passwords\n";
         cout << "4. Exit\n";
-        cout << "Please enter choice: ";
+        cout << "Please enter your choice: ";
         cin >> choice;
         
         if (choice == 1) {
